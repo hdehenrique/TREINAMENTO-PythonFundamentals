@@ -16,6 +16,7 @@ def seleciona_personagem():
         print("\nSelecione o Personagem: ")
         print("1 - Mago")
         print("2 - Guerreiro")
+        print("0 - Para sair")
         try:
             persona = int(input(">>> "))
             if persona == 1:
@@ -24,6 +25,8 @@ def seleciona_personagem():
             elif persona == 2:
                 personagem = personagem02
                 os.system('clear')
+            elif persona == 0:
+                exit()
             else:
                 raise TypeError("Personagem não encontrado")
         except ValueError:
@@ -43,6 +46,7 @@ def seleciona_monstro(personagem):
         print("\nSelecione o Monstro: ")
         print("1 - Minotauro")
         print("2 - Orc")
+        print("0 - Para sair")
         try:
             monster = int(input(">>> "))
             if monster == 1:
@@ -52,7 +56,8 @@ def seleciona_monstro(personagem):
             elif monster == 2:
                 monstro = monstro02
                 os.system('clear')
-
+            elif monster == 0:
+                exit()
             else:
                 raise TypeError("Monstro não encontrado")
         except ValueError:
