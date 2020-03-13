@@ -1,0 +1,64 @@
+/home/developer/python_fundamentals/Dados.csv
+
+cd ..
+pwd
+ls
+
+criar chave ssh-keygen
+cat .ssh/id_rsa.pub
+mkdir python_fundamental
+
+git@github.com:hdehenrique/python_fundamentals.git
+
+
+on_fundamentals/Aulas/basic.pyundamentals$ /usr/bin/python3 /home/developer/pytho
+Esse é um código em python
+developer@Developer:~/python_fundamentals$ cd Aulas
+developer@Developer:~/python_fundamentals/Aulas$ chmod
+chmod: falta operando
+Tente "chmod --help" para mais informações.
+developer@Developer:~/python_fundamentals/Aulas$ chmod u=+rwx basic.py
+developer@Developer:~/python_fundamentals/Aulas$ ls -l
+total 4
+-rwxrw-r-- 1 developer developer 132 mar  9 10:52 basic.py
+developer@Developer:~/python_fundamentals/Aulas$ ./basic.py
+Esse é um código em python
+developer@Developer:~/python_fundamentals/Aulas$ ^C
+developer@Developer:~/python_fundamentals/Aulas$ 
+
+
+kaggle.com
+http://pythontutor.com/
+
+http://dontpad.com/hfsantos
+https://pythonacademy.com.br/blog/domine-decorators-em-python
+
+sudo apt install python-pip
+sudo apt install virtualenv
+
+virtualenv -p python3 venv
+
+https://www.meetup.com/pt-BR/
+
+file:///tmp/mozilla_developer0/pagamento.pdf
+
+
+Hadoop and Spark for Data Engineering
+
+https://www.codenation.dev/
+
+http://520.salas4linux.com.br/
+
+Oracle VM Virtual Box
+Visual Studio Code
+
+https://paulovasconcellos.com.br/
+
+br.wordpress.com
+
+
+criar conta twitter dev para treinar mongo
+
+
+cqrs
+https://pt.stackoverflow.com/questions/181688/o-que-%C3%A9-cqrs-e-como-implementar
